@@ -1,0 +1,29 @@
+{
+  "name": "nodeisntall",
+  "version": "1.0.0",
+  "description": "this is a first node propject",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --inspect index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minhduc8a2/gittest.git"
+  },
+  "keywords": [
+    "test",
+    "nodejs",
+    "express"
+  ],
+  "author": "minhduc8a2",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/minhduc8a2/gittest/issues"
+  },
+  "homepage": "https://github.com/minhduc8a2/gittest#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
